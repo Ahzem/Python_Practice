@@ -17,14 +17,6 @@ This repository contains various Python projects and practice code that I have b
 
 In this repository, you will find a collection of Python projects and practice exercises that I've been working on to deepen my understanding of Python programming concepts. These projects cover a wide range of topics, from simple beginner-level exercises to more advanced projects.
 
-## Projects
-
-Here are some of the Python projects and exercises included in this repository:
-
-1. **Practice 1:** 
-2. **Practice 2:** 
-3. **Practice 3:**
-
    
 ## Getting Started
 
